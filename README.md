@@ -33,7 +33,8 @@ This is the repository for Fully Convolutional Instance-aware Semantic Segmentat
 0. Slides in [ImageNet ILSVRC and COCO workshop 2016](http://image-net.org/challenges/ilsvrc+coco2016): [OneDrive](https://onedrive.live.com/?cid=f371d9563727b96f&id=F371D9563727B96F%2197213&authkey=%21AEYOyOirjIutSVk)
 0. Code of FCIS is coming soon!
 
-
+```
+tree
 |-- 10000
 |   |-- bvalues.csv
 |   |-- models
@@ -42,3 +43,4 @@ This is the repository for Fully Convolutional Instance-aware Semantic Segmentat
 |   |   `-- fhm_time050.vtk
 |   `-- trans_params.csv
 `-- prediction.log
+```
